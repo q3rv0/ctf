@@ -2,7 +2,6 @@
 layout: post
 title:  "RoomHack CTF 2022 - 💌 Emoji Letters"
 date:   2022-09-29 00:43:53 -0300
-categories: jekyll update
 ---
 
 # Init
