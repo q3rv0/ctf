@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "RoomHack CTF 2022 - 💌 Emoji Letters"
+title:  "RomHack 2022 CTF - 💌 Emoji Letters"
 date:   2022-09-29 00:43:53 -0300
+categories: RomHack
 ---
 
 # Init
 
-Emoji Letters fue un challenge web del CTF RoomHack 2022. No logre resolverlo a tiempo, pero pude descargarme el challenge con todo lo necesario para reventar el reto en `localhost`.
+Emoji Letters fue un challenge web del RomHack 2022 CTF. No logre resolverlo a tiempo, pero pude descargarme el challenge con todo lo necesario para reventar el reto en `localhost`.
 
 {% highlight text %}
 $ q3rv0@raven ~/ctf/htb/web_emoji_letters$ tree .                                                                       
