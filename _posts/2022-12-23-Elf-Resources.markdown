@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "X-MAS CTF 2022 - Elf Resources"
+title:  "X-MAS CTF 2022 - 🧝 Elf Resources"
 date:   2022-12-23 03:43:53 -0300
 categories: X-MAS
 ---
